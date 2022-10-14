@@ -16,4 +16,5 @@
 
 
 - Consultando o estoque:
+
 ![image](https://user-images.githubusercontent.com/92878748/195914549-f2faa9b3-7d3f-4c0c-a5a3-bc9eb1f919b0.png)
