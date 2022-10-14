@@ -1,6 +1,5 @@
 from flask import Flask, request, render_template
 from pymongo import MongoClient
-from main import insertproduto
 client = MongoClient("mongodb://192.168.100.148:27100")
 
 print(client)
