@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template
 from pymongo import MongoClient
-client = MongoClient("mongodb://192.168.100.148:27100")
+client = MongoClient("mongodb://IP:27000")
 
 print(client)
 
