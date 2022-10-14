@@ -1,5 +1,10 @@
 # API
 
+- Topologia:
+
+![image](https://user-images.githubusercontent.com/92878748/195918264-fbf3db04-f7fd-4035-abe1-f14f662cc881.png)
+
+
 # Ferramentas utilizadas:
 
 - Docker(ubuntun);
