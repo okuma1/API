@@ -5,6 +5,7 @@
 - Docker(ubuntun);
 - MongoDB(Banco de dados);
 - Postman (consulta dos métodos HTTP).
+- [FLASK] (https://flask.palletsprojects.com/en/2.2.x/api/)
 
 - Imagem do [MongoDB](https://hub.docker.com/_/mongo) baixada no [DockerHub](https://hub.docker.com/)
 
