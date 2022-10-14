@@ -19,3 +19,17 @@
 - Consultando o estoque:
 
 ![image](https://user-images.githubusercontent.com/92878748/195914549-f2faa9b3-7d3f-4c0c-a5a3-bc9eb1f919b0.png)
+
+- Cadastrando produto:
+
+![image](https://user-images.githubusercontent.com/92878748/195915136-1db403d8-f42a-44e8-9030-0868ca7e969a.png)
+
+- Deletando o produto:
+
+![image](https://user-images.githubusercontent.com/92878748/195915207-4f12bcca-7ff6-4920-a165-5098f981e7ed.png)
+
+
+- Alterando os dados do produto:
+
+![image](https://user-images.githubusercontent.com/92878748/195915275-43568a93-5a64-4d31-b3e3-de395010c2a5.png)
+
